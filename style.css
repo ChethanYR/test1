@@ -1,0 +1,38 @@
+body{
+    background: black;
+}
+img{
+    width: 100%;
+    border: 5px solid #F8F6E3;
+    /*margin-left: 80px;*/
+}
+#state {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+  }
+#team {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: orangered;
+    text-align: center;
+    border: 5px solid white;
+  }
+  
+  P{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    text-align: center;
+  }
+  
+  div{
+     width: 50%;
+     margin-left: 25%;  
+  }
+  
